@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+pylint_report.txt
+bandit_report.txt
+flake8_report.txt
